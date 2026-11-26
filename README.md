@@ -1,3 +1,7 @@
+> **Repositorio independiente** — separado de `Actividades-2.0` el 26/11/2026.
+> GitHub: https://github.com/alitomaier2010-netizen/ACT02-HolaMundo
+> GitLab: https://gitlab.com/Alitopro/ACT02-HolaMundo
+
 # Hola Mundo — El taller del programador
 
 **Actividad 2 — El taller del programador** · Laboratorio de Programación · 5.º 3.ª A-B · E.E.S.T. N.º 1 «Eduardo Ader»
